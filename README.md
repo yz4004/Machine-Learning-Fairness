@@ -4,11 +4,11 @@
 
 + Project title: Comparing DM, DM-sen, LM and LPS
 + Team members
-	+ Ayati-Ghaffari, Arya aa4663@columbia.edu
-	+ Chen, Xueying xc2578@columbia.edu
-	+ Dong, Stella zd2268@columbia.edu
-	+ Fan, Ruopu rf2760@columbia.edu
-	+ Zou, Yixuan yz4004@columbia.edu
+	+ Ayati-Ghaffari, Arya aa4663
+	+ Chen, Xueying xc2578
+	+ Dong, Stella zd2268
+	+ Fan, Ruopu rf2760
+	+ Zou, Yixuan yz4004
 
 
  The designated presenter is Zou, Yixuan
